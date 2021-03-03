@@ -8,5 +8,5 @@ package com.example.test;
  * FileName: Demo
  * Description: demo
  */public class Demo1 {
-     private  String username;
+     private  String username = "111";
 }
