@@ -8,6 +8,6 @@ package com.example.test;
  * FileName: Demo
  * Description: demo
  */public class Demo {
-     private int age;
+     private int age = 15;
       private String password;
 }
