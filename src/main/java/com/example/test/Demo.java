@@ -9,5 +9,5 @@ package com.example.test;
  * Description: demo
  */public class Demo {
      private int age;
-      private String password
+      private String password;
 }
